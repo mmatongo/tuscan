@@ -1,0 +1,7 @@
+A really basic implementation of a shell prompt.
+
+TODO
+- [ ] - Tab completion
+- [ ] - History
+- [ ] - Git tracking
+- [ ] - Aliasing
